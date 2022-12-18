@@ -95,3 +95,4 @@ All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werro
 
 Styling
 All codes are Wrtten using Betty Style.
+Author: Ukaegbu Albert
